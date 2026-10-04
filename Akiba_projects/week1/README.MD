@@ -14,7 +14,7 @@
 * [x] Rectangle Workshop
 * [x] Temperature Station
 * [x] Shopping Receipt
-* [ ] Employee Payslip
+* [x] Employee Payslip
 * [ ] Travel Planner
 * [ ] Exam Result Report
 * [ ] Currency Exchange
