@@ -17,8 +17,8 @@
 * [x] Employee Payslip
 * [x] Travel Planner
 * [x] Exam Result Report
-* [ ] Currency Exchange
-* [ ] BMI
+* [x] Currency Exchange
+* [x] BMI
 * [ ] Student Profile System
 
 ## What I Learned
