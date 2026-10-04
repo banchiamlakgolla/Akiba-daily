@@ -15,7 +15,7 @@
 * [x] Temperature Station
 * [x] Shopping Receipt
 * [x] Employee Payslip
-* [ ] Travel Planner
+* [x] Travel Planner
 * [ ] Exam Result Report
 * [ ] Currency Exchange
 * [ ] BMI
