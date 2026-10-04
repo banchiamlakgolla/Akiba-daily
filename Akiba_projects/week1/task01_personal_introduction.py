@@ -1,0 +1,20 @@
+print("========================================")
+print("STUDENT INTRODUCTION")
+print("========================================")
+
+name = input("Enter your full name: ")
+age = input("Enter your age: ")
+city = input("Enter your city: ")
+university = input("Enter your university: ")
+department = input("Enter your department: ")
+language = input("Enter your favorite programming language: ")
+goal = input("Enter one programming goal: ")
+
+print("My name is", name + ".")
+print("I am", age, "years old.")
+print("I live in", city + ". I study", department, "at", university + ".")
+print("My favorite programming language is", language + ".")
+print("My programming goal:")
+print(goal + ".")
+
+print("========================================")
