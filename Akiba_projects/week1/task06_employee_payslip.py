@@ -3,7 +3,7 @@ print("       EMPLOYEE PAYSLIP")
 print("===========================")
 print()
 
-Employee_name = input("Enter the employee name:")
+Employee_name = input("Enter the employee name: ")
 basic_salary = float(input("Enter the basic salary:"))
 trans_allowance = float(input("Enter Transport allowance:"))
 food_allowance = float(input("Enter food allowance:"))

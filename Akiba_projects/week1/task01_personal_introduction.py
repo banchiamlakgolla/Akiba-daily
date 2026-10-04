@@ -10,6 +10,7 @@ department = input("Enter your department: ")
 language = input("Enter your favorite programming language: ")
 goal = input("Enter one programming goal: ")
 
+print()
 print("My name is", name + ".")
 print("I am", age, "years old.")
 print("I live in", city + ". I study", department, "at", university + ".")

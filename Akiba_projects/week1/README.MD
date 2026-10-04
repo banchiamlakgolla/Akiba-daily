@@ -16,7 +16,7 @@
 * [x] Shopping Receipt
 * [x] Employee Payslip
 * [x] Travel Planner
-* [ ] Exam Result Report
+* [x] Exam Result Report
 * [ ] Currency Exchange
 * [ ] BMI
 * [ ] Student Profile System
