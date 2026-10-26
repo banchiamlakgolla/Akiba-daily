@@ -428,7 +428,7 @@ py student_marks_manager.py
 - [x] Changes committed and pushed to GitHub.
 - [x] Repository link submitted to the instructor.
 
-**GitHub Repository:** `week-4-python-task`
+**GitHub Repository:** `https://github.com/banchiamlakgolla/Akiba-daily/tree/main/Akiba_projects/week4`
 
 **Submission Method:** GitHub repository link
 
